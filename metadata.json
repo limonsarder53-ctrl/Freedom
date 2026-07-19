@@ -1,0 +1,6 @@
+{
+  "name": "Freedom",
+  "description": "Freedom is a smart, interactive earning platform that allows users to perform daily tasks, build their teams, and unlock VIP tiers for higher profits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
